@@ -1,11 +1,7 @@
-# bulk-supplier-management-system
-A CLI-based inventory &amp; supplier management system built with Python. Track suppliers, products, purchase orders, sales, and generate PDF reports &amp; charts. Features low-stock alerts, MOQ validation, and data persistence using CSV.
-
-
 # Bulk Supplier Management System
 
 A **command-line inventory & supplier management system** built in Python using `pandas`, `reportlab`, `tabulate`, and `plotext`.  
-Perfect for small-to-medium businesses that need to track suppliers, products, purchase orders, sales, and generate PDF reports & charts.
+Perfect for small-to-medium businesses that need to track suppliers, products, purchase orders, sales, and generate PDF reports & charts  using CSV.
 
 ---
 
@@ -109,15 +105,4 @@ Follow the interactive menu to manage your inventory.
 **Made with ❤️ for efficient bulk supply chain management.**
 ```
 
----
 
-### How to Add It on GitHub (2-click method)
-
-1. Open your repo → **Add file** → **Create new file**  
-2. Name the file **`README.md`**  
-3. Paste the whole block above  
-4. Scroll down → **Commit new file**  
-
-Your README will instantly render on the repo homepage!
-
-Let me know if you want a **Dockerfile**, **SQLite version**, or **GUI (Tkinter/Streamlit)** next!
